@@ -18,8 +18,8 @@ importers:
         specifier: ^2.7.2
         version: 2.7.2
       '@tauri-apps/plugin-opener':
-        specifier: ^2.5.4
-        version: 2.5.4
+        specifier: ^2.5.5
+        version: 2.5.5
       mode-watcher:
         specifier: ^1.1.0
         version: 1.1.0(svelte@5.56.8)
@@ -613,8 +613,8 @@ packages:
   '@tauri-apps/plugin-dialog@2.7.2':
     resolution: {integrity: sha512-pX0IGm1I3I6wc+zeKYcq1GSqogK6okCNX5fOdaNU5ab1AjGS6l1E5wFNjEb7meg7ZFSp0JUs+0jQGQNyOvLrsg==}
 
-  '@tauri-apps/plugin-opener@2.5.4':
-    resolution: {integrity: sha512-1HnPkb+AmgO29HBazm4uPLKB+r7zzcTBW1d0fyYp1uP+jwtpoiNDGKMMzz58SFp49nOIrxdE3aUJtT57lfO9CQ==}
+  '@tauri-apps/plugin-opener@2.5.5':
+    resolution: {integrity: sha512-xvzGai5aQds8j8R8RsUK/lW6pGG50YgOYIPLzvkqmkwAj7dfySOD7sGtejRzvVdMmv1EQfKVEFh1MvmDp8QR0g==}
 
   '@types/estree@1.0.9':
     resolution: {integrity: sha512-GhdPgy1el4/ImP05X05Uw4cw2/M93BCUmnEvWZNStlCzEKME4Fkk+YpoA5OiHNQmoS7Cafb8Xa3Pya8m1Qrzeg==}
@@ -1347,7 +1347,7 @@ snapshots:
     dependencies:
       '@tauri-apps/api': 2.11.1
 
-  '@tauri-apps/plugin-opener@2.5.4':
+  '@tauri-apps/plugin-opener@2.5.5':
     dependencies:
       '@tauri-apps/api': 2.11.1
 
